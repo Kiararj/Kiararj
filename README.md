@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Kiara! 👋
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning Python.
