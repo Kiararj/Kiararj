@@ -1,19 +1,11 @@
 ## Hi 👋, I'm Kiara Johnson!  
 
 - 🔭 I’m currently working on my Portfolio.  
-  
-
 - 🌱 I’m currently learning Python.  
-  
-
-- ❓ Ask me about anything related to MERN stack and AI.  
-  
-
+- ❓ Ask me about anything related to MERN stack and AI. 
 - ⚡ Fun fact: I love video games, music, running and weight lifting.  
   
-
 <br/>  
-
 
 ## Skills 
 <div align="center">  
@@ -37,7 +29,6 @@
 </div>  
 
 <br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
