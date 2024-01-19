@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Kiara Johnson!  
 
-- 🔭 I’m currently working on my Portfolio.  
+- 🔭 I’m currently working on a to do application.  
 - 🌱 I’m currently learning Python.  
 - ❓ Ask me about anything related to MERN stack and AI. 
 - ⚡ Fun fact: I love video games, music, running and weight lifting.  
